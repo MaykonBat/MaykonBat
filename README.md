@@ -16,7 +16,7 @@ I bring together:
 ## 🏆 Hackathons & Achievements
 
 ### 🥉 **ETH LATAM Hackathon – 3rd Place**
-**Project:** *Decentralized Event Management Platform (mini-app) on Farcaster*  
+**Project:** *Decentralized Event Management Platform (mini-app) on Farcaster and Base App*  
 - Built a Web3-native event platform on **Farcaster** with **Chainlink** integrations 
 - Enabled permissionless event creation and secure on-chain attendee validation    
 - Awarded **3rd place** for best mini-app running on Base.   
