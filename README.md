@@ -39,6 +39,17 @@ Integrations: MetaMask • Phantom
 
 ## 🏗️ Featured Projects
 
+### 🚀 **Cerberus – DeFi Automation SaaS on Uniswap V3**
+
+Full-stack Web3 platform for automating token swaps based on customizable trading strategies.
+- Real-time automation engine monitoring Uniswap V3 pools
+- Automated swaps with condition-based execution and trade tracking (PnL)
+- Blockchain-based subscription payments via smart contracts
+- React dashboard with TradingView charts, WebSocket updates and MetaMask auth
+**Tech:** TypeScript • React • NestJS • Node.js • MongoDB • Prisma • Solidity • Hardhat • Ethers.js • WebSockets • Uniswap V3
+
+---
+
 ### 🏢 **DAO Condominium – On-chain Governance for Communities**
 Decentralized condominium management deployed on BSC Testnet.  
 - Upgradeable Solidity smart contracts  
