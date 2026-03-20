@@ -45,7 +45,7 @@ Full-stack Web3 platform for automating token swaps based on customizable tradin
 - Real-time automation engine monitoring Uniswap V3 pools
 - Automated swaps with condition-based execution and trade tracking (PnL)
 - Blockchain-based subscription payments via smart contracts
-- React dashboard with TradingView charts, WebSocket updates and MetaMask auth
+- React dashboard with TradingView charts, WebSocket updates and MetaMask auth   
 **Tech:** TypeScript • React • NestJS • Node.js • MongoDB • Prisma • Solidity • Hardhat • Ethers.js • WebSockets • Uniswap V3
 
 ---
